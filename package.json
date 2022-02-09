@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "postman-to-k6": "^1.5.0"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
